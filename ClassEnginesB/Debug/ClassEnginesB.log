@@ -1,0 +1,59 @@
+﻿  CollisionHandler.cpp
+  CollisionDetection.cpp
+  Camera.cpp
+  Debug.cpp
+  CoreEngine.cpp
+  GameObject.cpp
+  EventListener.cpp
+  Frustum.cpp
+  GameScene.cpp
+  Game1.cpp
+  LightSource.cpp
+  LoadObjModel.cpp
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Rendering\3D\LoadObjModel.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Window.cpp
+  Timer.cpp
+  StartScene.cpp
+  Mesh.cpp
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Rendering\3D\Mesh.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  Model.cpp
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Rendering\3D\Model.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+  ShaderHandler.cpp
+  TextureHandler.cpp
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Graphics\TextureHandler.cpp(56,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Graphics\TextureHandler.cpp(57,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  MouseEventListener.cpp
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Event\MouseEventListener.cpp(77,43): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Event\MouseEventListener.cpp(79,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Event\MouseEventListener.cpp(80,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Event\MouseEventListener.cpp(86,13): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\VSRepos\ClassEnginesB\ClassEnginesB\Engine\Event\MouseEventListener.cpp(87,13): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SceneGraph.cpp
+  MaterialHandler.cpp
+  MaterialLoader.cpp
+  OctSpatialPartition.cpp
+  Generating Code...
+  ClassEnginesB.vcxproj -> G:\VSRepos\ClassEnginesB\Debug\ClassEnginesB.exe
